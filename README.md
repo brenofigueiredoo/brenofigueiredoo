@@ -5,7 +5,7 @@
   <a href="https://github.com/brenofigueiredoo">
 </div>
 
-![Breno S. Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&count_private=true&show_icons=true&theme=radical)
+![Breno S. Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&count_private=true&show_icons=true&theme=codeSTACKr)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
