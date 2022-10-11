@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Hoje estou trabalhando com Front-end
-- 🌱 Estudando React/TypeScript
+- 🌱 Estudando Node | TypeScript | PostgreSQL | 
 
   <a href="https://github.com/brenofigueiredoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
