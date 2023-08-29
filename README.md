@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
-  
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&theme=codeSTACKr&include_all_commits=true&show_icons=true&hide_border=true&count_private=true"/>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofigueiredoo&theme=codeSTACKr&show_icons=true&hide_border=true&layout=compact"/>
 </div>
@@ -25,9 +24,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=mysql" />
   <img align="center" src="https://skillicons.dev/icons?i=mongodb" />
   <img align="center" src="https://skillicons.dev/icons?i=aws" />
-  <img align="center" src="https://skillicons.dev/icons?i=vercel" />
   <img align="center" src="https://skillicons.dev/icons?i=heroku" />
-  
 </div>
 
   ##
