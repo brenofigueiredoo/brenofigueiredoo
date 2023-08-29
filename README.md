@@ -32,7 +32,7 @@
 <div> 
   <a href = "mailto:brenos93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenosfigueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://portfolio-brenofigueiredoo.vercel.app/"><img src="https://img.shields.io/badge/-Portifólio-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href = "https://portfolio-brenofigueiredoo.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8B0000?style=for-the-badge" target="_blank"></a>
   
   ![Snake animation](https://github.com/brenofigueiredoo/brenofigueiredoo/blob/output/github-contribution-grid-snake.svg)
 </div>
