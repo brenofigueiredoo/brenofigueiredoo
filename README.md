@@ -1,29 +1,35 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Desenvolvedor Full Stack pela Kenzie Academy Brasil
 - 🌱 Atualmente buscando pela primeira vaga como Desenvolvedor
+
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofigueiredoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&theme=codeSTACKr&include_all_commits=true&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofigueiredoo&theme=codeSTACKr&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breno-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Breno-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Breno-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Breno-SQlite3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Breno-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Breno-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Breno-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="Breno-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" src="https://skillicons.dev/icons?i=html" />
+  <img align="center" src="https://skillicons.dev/icons?i=css" />
+  <img align="center" src="https://skillicons.dev/icons?i=javascript" />
+  <img align="center" src="https://skillicons.dev/icons?i=typescript" />
+  <img align="center" src="https://skillicons.dev/icons?i=react" />
+  <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
+  <img align="center" src="https://skillicons.dev/icons?i=python" />
+  <img align="center" src="https://skillicons.dev/icons?i=django" />
+  <img align="center" src="https://skillicons.dev/icons?i=java" />
+  <img align="center" src="https://skillicons.dev/icons?i=git" />
+  <img align="center" src="https://skillicons.dev/icons?i=docker" />
+  <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
+  <img align="center" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="center" src="https://skillicons.dev/icons?i=mongodb" />
+  <img align="center" src="https://skillicons.dev/icons?i=aws" />
+  <img align="center" src="https://skillicons.dev/icons?i=vercel" />
+  <img align="center" src="https://skillicons.dev/icons?i=heroku" />
   
 </div>
-  
+
   ##
  
 <div> 
