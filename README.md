@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
   
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&show_theme=radical&theme=codeSTACKr&include_all_commits=true&icons=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=brenofigueiredoo&show_theme=radical&theme=codeSTACKr&include_all_commits=true&icons=true&hide_border=true"/>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofigueiredoo&theme=codeSTACKr&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
