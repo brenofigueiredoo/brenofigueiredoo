@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Desenvolvedor Full Stack pela Kenzie Academy Brasil
-- 🌱 Atualmente estudando Java + Spring Boot
+- 🌱 Atualmente estudando Python + Django
 
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
