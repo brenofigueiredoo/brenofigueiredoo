@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
-- 🔭 Desenvolvedor Full Stack pela Kenzie Academy Brasil
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
 - 🌱 Atualmente estudando serviços AWS
 
 <div align="center">
