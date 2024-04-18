@@ -1,6 +1,7 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
-- 🌱 Atualmente estudando serviços AWS
+- 💻 Trabalhando como Desenvolvedor Full Stack na DOM MEDIA LTDA
+- 🌱 Estudando serviços .NET, C# e AWS
 
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
