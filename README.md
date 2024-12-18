@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
 - 💻 Trabalhando como Desenvolvedor Back End na Marttech - Desenvolvimento de Software
-- 🌱 Estudando .NET, C# e AWS
+- 🌱 Estudando .NET, C#, AWS e Docker
 
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
