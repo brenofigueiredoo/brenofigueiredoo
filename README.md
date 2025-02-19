@@ -31,7 +31,7 @@
 <div> 
   <h3 align="left">Entre em contato comigo:</h3>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brenos93@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]("mailto:brenos93@gmail.com")
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brenosfigueiredo/)
   [![Portfólio](https://img.shields.io/badge/Portfólio-%2307405e.svg?logo=sqlite&logoColor=white)](https://portfolio-brenofigueiredoo.vercel.app/)
 
