@@ -30,9 +30,10 @@
 
 <div> 
   <h3 align="left">Entre em contato comigo:</h3>
-  <a href = "mailto:brenos93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenosfigueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://portfolio-brenofigueiredoo.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8B0000?style=for-the-badge" target="_blank"></a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brenos93@gmail.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brenosfigueiredo/)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-%2307405e.svg?logo=sqlite&logoColor=white)](https://portfolio-brenofigueiredoo.vercel.app/)
 
    <!-- 
   ![Snake animation](https://github.com/brenofigueiredoo/brenofigueiredoo/blob/output/github-contribution-grid-snake.svg)
