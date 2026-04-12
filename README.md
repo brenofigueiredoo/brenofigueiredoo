@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
-- 💻 Trabalhando como Desenvolvedor Back End na Marttech
+- 💻 Trabalhando como Desenvolvedor Back End na <a href="https://www.linkedin.com/company/bilhon" target="_blank">Bilhon</a>
 - 🌱 Estudando Fastify, AWS e Docker
 
 <div align="center">
