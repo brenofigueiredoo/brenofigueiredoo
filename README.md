@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Breno S. Figueiredo
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas na PUC Minas
-- 💻 Trabalhando como Software Engineer na <a href="https://www.linkedin.com/company/bilhon" target="_blank">Bilhon</a>
-- 🌱 Estudando Fastify, AWS e Docker
+- 🔭 Graduado em Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/pucminas" target="_blank">PUC Minas</a>
+- 💻 Trabalhando como Software Engineer Pleno na <a href="https://www.linkedin.com/company/bilhon" target="_blank">Bilhon</a>
+- 🌱 Estudando RabbitMQ, Cloud, GO
 
 <div align="center">
   <a href="https://github.com/brenofigueiredoo">
